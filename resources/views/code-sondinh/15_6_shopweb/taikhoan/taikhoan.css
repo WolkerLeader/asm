@@ -1,0 +1,73 @@
+.baotrum-taikhoan{
+    margin-top: calc(160px + 20px);
+    background-color: #fff;
+    line-height: 20px;
+    color: #333;
+}
+.taikhoan{
+    width: 1000px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.taikhoan-trangchu{
+    border-bottom: 1px solid #e7e7e7;
+    padding-bottom: 6px;
+}
+.taikhoan-trangchu i {
+    font-style: normal;
+    color: #777777;
+}
+.link-trangchu{
+    text-decoration: none;
+    color: #333;
+}
+.link-trangchu:hover{
+    color: var(--mau-chudao)
+}
+
+.thongtin-taikhoan{
+
+}
+.thongtin-taikhoan-1{
+
+}
+.thongtin-taikhoan-1 h3{
+    font-size: 24px;
+    font-weight: 300;
+    border-bottom: 2px solid var(--mau-chudao);
+    padding: 16px 0;
+}
+.thongtin-taikhoan-1 p{
+    font-size: 12px;
+    font-weight: 300;
+    padding: 16px 0;
+}
+.thongtin-taikhoan-2{
+    padding-top: 16px;
+}
+.thongtin-taikhoan-2 h3{
+    font-size: 24px;
+    font-weight: 10;
+    border-bottom: 2px solid var(--mau-chudao);
+    padding: 8px 0 16px 0;
+}
+.thongtin-taikhoan-2 .thongtin-taikhoan-2-text{
+    padding-top: 24px;
+}
+.thongtin-taikhoan-2-email{
+    padding-top: 10px;
+    font-size: 12px;
+}
+.thongtin-taikhoan-2-diachi{
+    padding-top: 4px;
+    font-size: 12px;
+}
+.thongtin-taikhoan-2 a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: var(--mau-chudao);
+    font-size: 12px;
+}
+.thongtin-taikhoan-2 a:hover{
+    color: #333;
+}
